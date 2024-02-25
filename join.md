@@ -1,4 +1,3 @@
-
 ---
 layout: page
 title: Join the Movement
