@@ -4,12 +4,11 @@ title: Contact
 permalink: /contact/
 ---
 
-![Meeting]({{ site.baseurl }}/images/contact.jpg){: .right}
+Thank you for your interest in Latin Camper! We're here to support you on your camping journey and answer any questions you may have. Please feel free to reach out to us using the contact information below:
 
-Ready to experience the difference of working with a trusted legal partner? Contact us today to schedule a consultation. Let Legal Negocio be your guide to achieving legal peace of mind and unlocking new opportunities for your business.
+Email: info@latincamper.copm
 
-Phone: 
+Address:
 
-Address: 
-
-Email: [legal@legalnegocio.com](mailto:legal@legalnegocio.com){:target="_blank"}
+Social Media:
+Connect with us on social media to stay updated on the latest news, events, and resources:
