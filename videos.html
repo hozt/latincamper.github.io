@@ -1,0 +1,13 @@
+---
+layout: page
+title: Videos
+permalink: /videos/
+---
+
+<div class="videos">
+  {% for vido in site.videos %}
+    <article class="video">
+        {% include youtubePlayer.html id=video.youtubeId %}
+    </article>
+  {% endfor %}
+</div>
